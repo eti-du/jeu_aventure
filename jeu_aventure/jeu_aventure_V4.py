@@ -22,8 +22,8 @@ textclef = font.render("La clef se trouve ici, dans cette pièce, maintenant il 
 textporteferme = font.render("Il faut d'abord trouver la clef pour pouvoir entrer", True, (245, 15, 10))
 
 cleftrouve = False
-x = 10
-y = 10
+x = 9
+y = 8
 actuelsalle = "salle" + str(x) + '_' + str(y)
 class salles:
     '''La liste des salles'''
