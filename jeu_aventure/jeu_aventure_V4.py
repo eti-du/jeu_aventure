@@ -1,6 +1,6 @@
 
 """
-Programme réalisé par Duroy, Etienne, 1G1
+Programme réalisé par *********** 1G1
 """
 import pygame
 pygame.init()#initialisation graphique
